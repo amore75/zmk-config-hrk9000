@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "bfo9000.dtsi"
+#include "hrk9000.dtsi"
 
 &default_transform {
     col-offset = <9>;
